@@ -1,0 +1,67 @@
+﻿  Animation.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\animation.cpp(7): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\animation.cpp(8): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  AssetManager.cpp
+  Bomb.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\bomb.cpp(14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\bomb.cpp(23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  BrickBlock.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\brickblock.cpp(10): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Collision.cpp
+  EndScreenState.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\endscreenstate.cpp(27): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+  Game.cpp
+  GameState.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\gamestate.cpp(29): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  HUD.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\hud.cpp(6): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\hud.cpp(10): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\hud.cpp(28): warning C4156: usunięcie wyrażenia tablicowego bez użycia formularza tablicy "delete"; zastąpiono formularz tablicy
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\hud.cpp(28): warning C4154: usunięcie wyrażenia tablicowego; dostarczono konwersji do wskaźnika
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\hud.cpp(52): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  InputManager.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\inputmanager.cpp(17): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\inputmanager.cpp(17): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  main.cpp
+  MainMenuState.cpp
+  Player1.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\player1.cpp(25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\player1.cpp(96): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\player1.cpp(149): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Player2.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\player2.cpp(25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\player2.cpp(96): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\player2.cpp(149): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  StateMachine.cpp
+  WallBlock.cpp
+c:\users\user\source\repos\c94bf924-gr21-repo3\projekt\projekt\wallblock.cpp(10): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  0 of 868 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Projekt.vcxproj -> C:\Users\User\Source\Repos\c94bf924-gr21-repo3\Projekt\Release\Projekt.exe
